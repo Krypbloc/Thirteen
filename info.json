@@ -1,0 +1,11 @@
+{
+ "name": "Thirteen",
+ "website": "https://xiii.krypbloc.com",
+ "description": "Thirteen (XIII) is a digital asset issued by Krypbloc Capital of the Republic of Indonesia based on the Ethereum ERC-20 protocol.",
+ "explorer": "https://etherscan.io/token/0x000000000000000000000",
+ "type": "ERC20",
+ "symbol": "XIII",
+ "decimals": 13,
+ "status": "active",
+ "id": "0x000000000000000000000"
+}
